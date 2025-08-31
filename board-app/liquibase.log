@@ -1,0 +1,41 @@
+ago. 31, 2025 12:28:08 AM liquibase.database
+INFORMAÇÕES: Set default schema name to public
+ago. 31, 2025 12:28:08 AM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202408191938.sql
+ago. 31, 2025 12:28:08 AM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202408210954.sql
+ago. 31, 2025 12:28:08 AM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202408211004.sql
+ago. 31, 2025 12:28:08 AM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202408211005.sql
+ago. 31, 2025 12:28:08 AM liquibase.changelog
+INFORMAÇÕES: Reading from public.databasechangelog
+Database is up to date, no changesets to execute
+ago. 31, 2025 12:28:08 AM liquibase.changelog
+INFORMAÇÕES: Reading from public.databasechangelog
+
+UPDATE SUMMARY
+Run:                          0
+Previously run:               4
+Filtered out:                 0
+-------------------------------
+Total change sets:            4
+
+ago. 31, 2025 12:28:08 AM liquibase.util
+INFORMAÇÕES: UPDATE SUMMARY
+ago. 31, 2025 12:28:08 AM liquibase.util
+INFORMAÇÕES: Run:                          0
+ago. 31, 2025 12:28:08 AM liquibase.util
+INFORMAÇÕES: Previously run:               4
+ago. 31, 2025 12:28:08 AM liquibase.util
+INFORMAÇÕES: Filtered out:                 0
+ago. 31, 2025 12:28:08 AM liquibase.util
+INFORMAÇÕES: -------------------------------
+ago. 31, 2025 12:28:08 AM liquibase.util
+INFORMAÇÕES: Total change sets:            4
+ago. 31, 2025 12:28:08 AM liquibase.util
+INFORMAÇÕES: Update summary generated
+ago. 31, 2025 12:28:08 AM liquibase.lockservice
+INFORMAÇÕES: Successfully released change log lock
+ago. 31, 2025 12:28:08 AM liquibase.command
+INFORMAÇÕES: Command execution complete
